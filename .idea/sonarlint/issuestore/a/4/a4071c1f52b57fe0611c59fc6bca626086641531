@@ -1,0 +1,13 @@
+
+
+java:S20954"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(ØáÁ«ıÿÿÿÿ8¶Ä·‘ù1J$5a8f01de-6414-4e60-99cb-fd763fb2b6fa
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹Ä·‘ù1J$ed3d2969-84bb-4327-9ec2-5b7454e94306
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹Ä·‘ù1J$835e916c-87fc-475d-bdc6-c2925f8ccd5e
+
+java:S1854-"9Remove this useless assignment to local variable "token".(•¾ñ¯úÿÿÿÿ8Ìß¸‘ù1J$77447750-91d9-4ae0-a428-a655177fd48a
+m
+java:S1481)"*Remove this unused "token" local variable.(‘¾Óè8ÁÄ·‘ù1J$9fc6295a-3166-4b08-a6b5-8b6b43d27aa7
+u
+java:S1481*"-Remove this unused "username" local variable.(Ô·Âúÿÿÿÿ8ÁÄ·‘ù1J$07e46d9e-1082-4630-a4e1-ccbfbddad006

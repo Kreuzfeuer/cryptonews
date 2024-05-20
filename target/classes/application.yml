@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cryptonews
+    port: 8085
+rapidApi:
+  uri: "https://crypto-news-api5.p.rapidapi.com/news"
+  headers:
+    key: "24301918e9msh9d3679d0bbc2bfep14b33ajsn3790aaeac139"
+    host: "crypto-news-api5.p.rapidapi.com"
+auth:
+  url: localhost:8080
